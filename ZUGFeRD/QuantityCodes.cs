@@ -521,6 +521,11 @@ namespace s2industries.ZUGFeRD
         XCT,
 
         /// <summary>
+        /// Platte / Plate
+        /// </summary>
+        XPG,
+
+        /// <summary>
         /// Palette
         /// Abkürzung: Pal
         /// Previously, PX was also used. This has been removed.
